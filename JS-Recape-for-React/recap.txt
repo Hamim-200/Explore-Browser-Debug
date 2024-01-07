@@ -18,3 +18,15 @@
         -Array Destructuring
         -Object Destructuring
     
+5-> Shorthand
+        -Truthy / Falsy 
+        -Ternary
+        -Number to string Convert
+        -String To Number
+6-> Shorthand
+        -Local & Session Storage 
+7-> Notation
+        -Dot Notation 
+        -Bracket Notation 
+        
+    
